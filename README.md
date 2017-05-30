@@ -2,7 +2,7 @@
 
 Like other Romance languages, French nouns are divided in two almost distinct genders: feminine and masculine. Deciding the gender of a word is not obvious. For example, a table is feminine (“une table”) but an acid is masculine (“un acide”).
 
-The code loads a dictionary and represents with bar plots the distribution of the gender across the letters.
+This code loads a dictionary and represents the distribution of the gender across the letters (using bar plots).
 
 You can check out the related blog post here: https://ahstat.github.io/Gender-french-nouns/ or directly see results in the `outputs` folder.
 
